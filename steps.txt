@@ -1,0 +1,17 @@
+=> here we are using 4 libraries 
+
+-> first we use libraries
+1.numpy
+2.matplotlib
+3.padas
+4.sklearn
+5.tensorflow
+
+=> source of this data is from finance.yahoo.com
+=> then we imported libraries and all the data(.csv file)
+
+->then we train our data
+->build LSTM
+->Test Dataset
+
+=>Got result and graph
