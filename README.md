@@ -3,7 +3,8 @@ This is a project to build a model which predict price of bitcoin...
 => here we are using 4 libraries 
 
 -> first we use libraries
-1.numpy
+
+&nbsp;1.numpy
 
 &nbsp;2.matplotlib
 
