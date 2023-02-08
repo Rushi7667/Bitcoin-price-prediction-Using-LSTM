@@ -1,4 +1,5 @@
-# Bitcoin-price-prediction-Using-LSTM-2021
+# Bitcoin-price-prediction-Using-LSTM
+
 This is a project to build a model which predict price of bitcoin...
 => here we are using 4 libraries 
 
